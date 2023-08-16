@@ -4,7 +4,7 @@ import Cards from "./components/Cards";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Newsletter from "./components/Newsletter";
+import Newsletter from "./components/NewsLetter";
 
 function App() {
   return (
